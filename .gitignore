@@ -1,1 +1,6 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/*
+.nbgrader.log
 
+#not sure if this is what they want when creating a .gitignore
+#have to double check this later
